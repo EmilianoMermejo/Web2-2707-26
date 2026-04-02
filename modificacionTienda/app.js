@@ -72,7 +72,7 @@ function mostrarCarritoTotal(){
     }
 }
 
-// Función para mostrar contador e inventario (ACTUALIZADA)
+// Función para mostrar contador e inventario
 function mostrarContadorInventario(){
     console.log("Contador de productos:");
     
